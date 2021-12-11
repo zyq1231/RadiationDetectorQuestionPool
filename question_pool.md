@@ -111,6 +111,55 @@
 （<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})+\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]">）
 中各项的物理意义。为什么 dE/dx~E 曲线有极大值出现？重带电粒子阻止本领与粒子能量的关系曲线，并简述曲线各部分对应的效应，和对其描述的理论。
 
+(1) 带电粒子与靶原子碰撞的一般行为包括：
+
+- 与靶核外电子的非弹性碰撞
+- 与靶原子核的非弹性碰撞
+- 与靶核外电子的弹性碰撞
+- 与靶原子核的弹性碰撞
+
+(2) Bether-Block 公式中各项的物理意义
+
+- <img src="https://render.githubusercontent.com/render/math?math=z">、<img src="https://render.githubusercontent.com/render/math?math=v"> 分别为入射带电粒子的电荷数和速度
+- <img src="https://render.githubusercontent.com/render/math?math=NZ"> 分别为靶核的数密度及靶核的原子序数
+- <img src="https://render.githubusercontent.com/render/math?math=\ln\frac{1}{1 - \beta^2}-\beta^2"> 为相对论修正项
+- <img src="https://render.githubusercontent.com/render/math?math=-\frac{C}{Z}"> 为壳效应修正项
+- <img src="https://render.githubusercontent.com/render/math?math=e">、<img src="https://render.githubusercontent.com/render/math?math=m_0"> 分别为电子的电荷和静止质量
+- <img src="https://render.githubusercontent.com/render/math?math=c"> 为光速
+- <img src="https://render.githubusercontent.com/render/math?math=\beta = \frac{v}{c}">
+- <img src="https://render.githubusercontent.com/render/math?math=I"> 为靶原子的平均电离电位
+
+(3) 重带电粒子阻止本领与粒子能量的关系曲线，以及曲线各部分对应的效应和对其描述的理论
+
+![重带电粒子阻止本领与粒子能量的关系曲线](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/f082515cc80dc7faf1fcb1fe8f7a52f3d50ca60a/image/dEdx%20-%20E.jpg)
+
+| 曲线各部分 | 效应 | 理论 |
+| -- | -- | -- |
+| 1 | <img src="https://render.githubusercontent.com/render/math?math=\frac{z^2}{v^2}"> | 核阻止 |
+| 2 | <img src="https://render.githubusercontent.com/render/math?math=v"> | LSS |
+| 3 | <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{v^2}"> | Bether-Block 公式 |
+| 4 | <img src="https://render.githubusercontent.com/render/math?math=\ln\frac{1}{1 - \beta^2}"> | Bether-Block 公式 - 相对论修正 |
+
+(4) dE/dx~E 曲线出现极大值的原因
+
+- Bether-Block 公式描述的 <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{v^2}"> 效应、与 <img src="https://render.githubusercontent.com/render/math?math=v"> 成正比的 LSS 理论描述的电子俘获以及壳修正共同作用的结果
+
+**来源**：
+
+- 带电粒子与靶原子碰撞的一般行为
+  - PPT 讲义《绪论 射线与物质相互作用 (2)》P69
+- Bether-Block 公式中各项的物理意义
+  - 《核辐射探测器》，P21-22
+- 重带电粒子阻止本领与粒子能量的关系曲线，以及曲线各部分对应的效应和对其描述的理论
+  - PPT 讲义《绪论 射线与物质相互作用 (2)》P78
+  - 课程 第 7 次课，视频 1 的 01:36 左右
+- dE/dx~E 曲线出现极大值的原因
+  - 课程 第 7 次课，视频 1 约 01:37:06 ~ 01:37:35 处
+
+**讨论**：
+
+- (2) 中 Bether-Block 公式中第 5-8 项的或许不需要写
+- (3) 中曲线第 4 部份 "Bether-Block 公式 - 相对论修正" 对应的效应不一定是这么写
 ------
 
 7. 简述 γ 射线与物质的三种主要相互作用，并说明这三种相互作用截面与靶物质核电荷数以及射线能量的数学关系，并用图示意之。
