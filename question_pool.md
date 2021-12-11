@@ -164,6 +164,48 @@
 
 7. 简述 γ 射线与物质的三种主要相互作用，并说明这三种相互作用截面与靶物质核电荷数以及射线能量的数学关系，并用图示意之。
 
+**答案正文**：
+
+γ 射线与物质的三种主要相互作用分别为：
+
+- 光电效应
+  - 概念
+    - 光子把全部能量转移给内层电子，形成光电子发射出去，光子本身消失。光子能量一部分用于光电子克服束缚的电离能，另一部分作为光电子动能
+  - 总光电截面<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}}">与靶物质核电荷数以及射线能量的数学关系
+    - 非相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx \frac{5}{4}  Z^5 (\frac{1}{hv})^{7/2}">
+    - 相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \gg m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx  \frac{5}{4}  Z^5 \frac{1}{hv}">
+- 康普顿散射
+  - 概念
+    - 入射光子一部分能量转移给靶核外层电子，使之电离成为反冲电子，而光子的运动方向和能量发生变化
+  - 康普顿散射截面与靶物质核电荷数以及射线能量的数学关系
+    - 低能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} \xrightarrow{hv \rightarrow 0} \sigma_{\text{Th}} = \frac{8}{3} Z \pi r_0^2">
+    - 高能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} = Z \pi r_0^2 \frac{m_0c^2}{hv} (\ln{\frac{2hv}{m_0c^2}} %2B \frac{1}{2})">
+- 电子对效应
+  - 概念
+    - 光子在原子核库伦场作用下，γ 光子转化为一个正负电子对
+  - 电子对效应截面与靶物质核电荷数以及射线能量的数学关系
+    - 能量稍大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2">：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{p}} \propto Z^2E_\gamma">
+    - 能量远远大于<img src="https://render.githubusercontent.com/render/math?math=2m_0c^2">：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{p}} \propto Z^2 \ln{E_\gamma}">
+
+三种相互作用截面与靶物质核电荷数以及射线能量关系的示意图如下：
+![三种相互作用截面与靶物质核电荷数以及射线能量关系的示意图](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/5d70befc8ba154bd5a847f005a46f16c02c5eea3/image/%E6%8C%89%E5%85%89%E5%AD%90%E8%83%BD%E9%87%8F%E5%92%8C%E5%8E%9F%E5%AD%90%E5%BA%8F%E6%95%B0%E6%9D%A5%E8%A1%A8%E7%A4%BA%E7%9A%84%E4%B8%89%E7%A7%8D%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8%E5%8D%A0%E4%BC%98%E5%8A%BF%E7%9A%84%E5%8C%BA%E5%9F%9F.jpg)
+
+**来源**：
+
+- γ 射线与物质的三种主要相互作用
+  - 光电效应
+    - PPT 讲义《绪论 射线与物质相互作用 (2)》P94-95
+  - 康普顿散射
+    - PPT 讲义《绪论 射线与物质相互作用 (2)》P96-97
+  - 电子对产生
+    - PPT 讲义《绪论 射线与物质相互作用 (2)》P99 
+- 三种相互作用截面与靶物质核电荷数以及射线能量关系的示意图
+  - PPT 讲义《绪论 射线与物质相互作用 (2)》P100
+
+**讨论**：
+
+- 虽然使用的图片与 "三种相互作用截面与靶物质核电荷数以及射线能量关系" 这一描述不严格相符，但应该没错
+
 ------
 
 8. 请详细解释光电效应的发生为什么必须有“第三者”的参与。
