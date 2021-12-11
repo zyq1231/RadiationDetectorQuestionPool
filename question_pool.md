@@ -111,6 +111,8 @@
 （<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})+\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]">）
 中各项的物理意义。为什么 dE/dx~E 曲线有极大值出现？重带电粒子阻止本领与粒子能量的关系曲线，并简述曲线各部分对应的效应，和对其描述的理论。
 
+**答案正文**：
+
 (1) 带电粒子与靶原子碰撞的一般行为包括：
 
 - 与靶核外电子的非弹性碰撞
