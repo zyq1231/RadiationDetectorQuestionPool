@@ -533,7 +533,21 @@
 **讨论**：
 
 ------
+18. 用一台 NaI(Tl) 探测器测量 <img src="https://render.githubusercontent.com/render/math?math=\^{137}\text{Cs}"> 662 keV γ 谱。若已知平均光能产额 <img src="https://render.githubusercontent.com/render/math?math=\bar{Y_{\text{ph}}} = 4.37 \times 10^{-2}">，光收集效率 <img src="https://render.githubusercontent.com/render/math?math=F_{\text{ph}} = 0.35">，光电子收集效率 <img src="https://render.githubusercontent.com/render/math?math=g_c \sim 1">，量子效率 <img src="https://render.githubusercontent.com/render/math?math=\bar{Q_{K}} = 0.22">，光电倍增管第一打拿级 <img src="https://render.githubusercontent.com/render/math?math=\delta_1 = 25">，后面各级 <img src="https://render.githubusercontent.com/render/math?math=\delta = 6">，并认为 <img src="https://render.githubusercontent.com/render/math?math=\eta_T = \eta_I = 4\%25">，计算探测器的能量分辨率 <img src="https://render.githubusercontent.com/render/math?math=\eta">。
 
+**答案正文**：
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta_{\text{eM}}^2 %26= \frac{5.56}{\bar{n}_{\text{ph}} F_{\text{ph}} g_c \bar{Q}_{k}}  (1 %2B \frac{\delta}{\delta_1}\frac{1}{\delta-1})\\%26= \frac{5.56}{4.37 \times 10^{-2} \times 6.62 \times 10^{5} \times 0.35 \times 1 \times 0.22}(1 %2B \frac{6}{25}\frac{1}{6-1})\\%26= 0.00262\end{align*}">
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta %26= \sqrt{\eta_{\text{eM}}^2 %2B \eta_{T}^2 %2B \eta_{I}^2}\\%26=\sqrt{0.00262 %2B 0.04^2 %2B 0.04^2}\\%26=7.64\%25\end{align*}">
+
+**来源**：
+
+- 《原子核物理实验方法 修订第三版》，P132
+
+**讨论**：
+
+------
 ……
 
 ------
