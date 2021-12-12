@@ -265,7 +265,7 @@
     - 相对论 (<img src="https://render.githubusercontent.com/render/math?math=hv \gg m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{ph}} = \frac{5}{4} \sigma_K \approx  \frac{5}{4}  Z^5 \frac{1}{hv}">
 - 康普顿散射
   - 概念
-    - 入射光子一部分能量转移给靶核外层电子，使之电离成为反冲电子，而光子的运动方向和能量发生变化
+    - 入射光子一部分能量转移给靶核外层电子，使之电离成为反冲电子，而光子的运动方向和能量发生变化，成为散射光子。
   - 康普顿散射截面与靶物质核电荷数以及射线能量的数学关系
     - 低能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} \xrightarrow{hv \rightarrow 0} \sigma_{\text{Th}} = \frac{8}{3} Z \pi r_0^2">
     - 高能 (<img src="https://render.githubusercontent.com/render/math?math=hv \ll m_0c^2">)：<img src="https://render.githubusercontent.com/render/math?math=\sigma_{\text{c}} = Z \pi r_0^2 \frac{m_0c^2}{hv} (\ln{\frac{2hv}{m_0c^2}} %2B \frac{1}{2})">
