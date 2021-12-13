@@ -614,11 +614,13 @@
 
 **答案正文**：
 
+由于电子-空穴对的统计涨落引起的能量展宽为：
 
+<img src="https://render.githubusercontent.com/render/math?math=W \approx 0.5 \sqrt{\rho u} = 0.5 \sqrt{1000 \times 100} = 158.11 \mu m">
 
 **来源**：
  
-- 
+- 《核辐射探测器》，P255
 
 **讨论**：
 
