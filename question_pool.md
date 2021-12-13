@@ -546,7 +546,7 @@
 - 《原子核物理实验方法 修订第三版》，P132
 
 **讨论**：
-
+题目变更
 ------
 
 19. <img src="https://render.githubusercontent.com/render/math?math=\^{14}\text{C}"> 的 β 射线源发射的 β 粒子的平均能量为 50 keV，活度为 5000 Bq（发射粒子个数/秒），置于充 Ar（<img src="https://render.githubusercontent.com/render/math?math=\omega_\beta = 26.4\text{eV}">）的 4π 电流电离室中，若全部离子能量都消耗在电离室灵敏体积内，求饱和电流。
@@ -565,19 +565,11 @@
 
 20. 试根据 G-M 计数管的坪曲线选择工作电压，图示并叙述出起始电压、坪长和坪斜的概念。
 
-![G-M计数管的坪曲线](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/a415de91947b6d7c4d5aa89153e799a2e63b33f6/image/G-M%E8%AE%A1%E6%95%B0%E7%AE%A1%E7%9A%84%E5%9D%AA%E6%9B%B2%E7%BA%BF.png)
-
 **答案正文**：
-
-- 起始电压：起始电压 <img src="https://render.githubusercontent.com/render/math?math=V_s"> 相当于计数管放电的阈电压，当工作电压超过起始电压后才开始有计数。
-- 坪长：当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_1"> 时，随着外加工作电压的增加计数率增加不显著，出现坪区；当外加电压超过 <img src="https://render.githubusercontent.com/render/math?math=V_2">，计数管进入多次或连续放电区，计数率急骤增加，此时猝灭气体大量消耗，计数管极易损坏。<img src="https://render.githubusercontent.com/render/math?math=V_2 - V_1"> 称为坪长。
-- 坪斜：在坪区，计数率仍随电压升高而增多，表现为坪有坡度，称为坪斜。其出现的主要原因是乱真放电随电压升高而增多，从而造成假计数增多。
-- G-M 计数管的工作电压一般选在坪区的 <img src="https://render.githubusercontent.com/render/math?math=1/3"> 到 <img src="https://render.githubusercontent.com/render/math?math=2/3"> 范围内。
 
 **来源**：
 
-- 《核辐射探测器》，P100
-- 《原子核物理实验方法 修订第三版》，P93-94
+- 
 
 **讨论**：
 
@@ -645,12 +637,12 @@
 24. 叙述热释光探测器工作原理。
 
 **答案正文**：
-
+激子、电子和空穴在晶体内运动的过程中，可能被陷阱俘获而落入不同的陷阱能级；或陷入杂质原子在禁带所形成的能级。陷阱是指晶体结构中的离子空位、晶体平面结构的位错、间隙离子等晶体不完整性所引起的一些与导带底部距离小的分立能级。常温下陷阱能级和激活能级中的电子无法靠自己的热运动到达导带，必须从外界获得能量才能跳到导带。如果能量足够高，电子会重新被激发到导带中，导带跳回满带，将激发能以光的形式辐射，发射的光称为热释光。
 
 
 **来源**：
  
-- 
+- 《核辐射探测器》p416
 
 **讨论**：
 
