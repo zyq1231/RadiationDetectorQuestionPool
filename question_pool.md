@@ -539,7 +539,7 @@
 
 <img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta_{\text{eM}}^2 %26= \frac{5.56}{\bar{n}_{\text{ph}} F_{\text{ph}} g_c \bar{Q}_{k}}  (1 %2B \frac{\delta}{\delta_1}\frac{1}{\delta-1})\\%26= \frac{5.56}{4.37 \times 10^{-2} \times 6.62 \times 10^{5} \times 0.35 \times 1 \times 0.22}(1 %2B \frac{6}{25}\frac{1}{6-1})\\%26= 0.00262\end{align*}">
 
-<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta %26= \sqrt{\eta_{\text{eM}}^2 %2B \eta_{T}^2 %2B \eta_{I}^2}\\%26=\sqrt{0.00262 %2B 0.04^2 %2B 0.04^2}\\%26=7.64\%25\end{align*}">
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}\eta %26= \sqrt{\eta_{\text{eM}}^2 %2B \eta_{T}^2 %2B \eta_{I}^2}\\%26=\sqrt{0.00262 %2B 0.04^2 %2B 0.04^2}\\%26=7.63\%25\end{align*}">
 
 **来源**：
 
