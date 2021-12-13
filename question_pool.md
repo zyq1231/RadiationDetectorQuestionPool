@@ -548,6 +548,21 @@
 **讨论**：
 
 ------
+
+19. <img src="https://render.githubusercontent.com/render/math?math=\^{14}\text{C}"> 的 β 射线源发射的 β 粒子的平均能量为 50 keV，活度为 5000 Bq（发射粒子个数/秒），置于充 Ar（<img src="https://render.githubusercontent.com/render/math?math=\omega_\beta = 26.4\text{eV}">）的 4π 电流电离室中，若全部离子能量都消耗在电离室灵敏体积内，求饱和电流。
+
+**答案正文**：
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}I_{\text{S}} %26= \frac{E_0}{\omega_\beta} \times n \times q\\%26= \frac{5 \times 10^4}{26.4} \times 5000 \times 1.6 \times 10^{-19}\\%26= 1.515 \times 10^{-12} \text{A}\end{align*}">
+
+**来源**：
+
+- 《核辐射探测器》，P93
+
+**讨论**：
+
+------
+
 ……
 
 ------
