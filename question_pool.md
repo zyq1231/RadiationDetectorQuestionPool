@@ -575,15 +575,22 @@
 
 ------
 
-21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度合结电容。
+21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度和结电容。
 
 **答案正文**：
 
+灵敏区厚度：
+<img src="https://render.githubusercontent.com/render/math?math=W \approx 0.5 \sqrt{\rho u} = 0.5 \sqrt{1000 \times 100} = 158.11 \mu m">
 
+结电容：
+<img src="https://render.githubusercontent.com/render/math?math=C_d \approx 210  \frac{S}{\sqrt{\rho u}} = 210  \frac{\pi \frac{\phi^2}{4}}{\sqrt{\rho u}} = 210  \frac{100\pi}{\sqrt{1000 \times 100}} = 208.63\text{pF}">
 
 **来源**：
  
-- 
+- 灵敏区厚度
+  - 《核辐射探测器》，P172
+- 结电容
+  - 《核辐射探测器》，P188
 
 **讨论**：
 
