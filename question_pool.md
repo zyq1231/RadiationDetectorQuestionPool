@@ -313,11 +313,40 @@
 
 ------
 
-9. 分别示意画出 α、单能电子、γ 射线的吸收曲线，并分别解释 $I/I0=1/2$ 对应吸收片厚度的意义。
+9. 分别示意画出 α、单能电子、γ 射线的吸收曲线，并分别解释 <img src="https://render.githubusercontent.com/render/math?math=I/I_0=1/2"> 对应吸收片厚度的意义。
 
 **答案正文**：
 
+α 的吸收曲线：
+
+![α 的吸收曲线](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/440e05f8b5c5f4d35ca03ec1fc5599c56b8fab4f/image/%CE%B1%E5%90%B8%E6%94%B6%E6%9B%B2%E7%BA%BF.png)
+
+单能电子吸收曲线：
+
+![单能电子吸收曲线](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/b66afff3e1c969a6dc0695873e6c1ae6b003ff55/image/%E5%8D%95%E8%83%BD%CE%B2%E5%90%B8%E6%94%B6%E6%9B%B2%E7%BA%BF.png)
+
+γ 射线的吸收曲线：
+
+![γ 射线的吸收曲线](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/440e05f8b5c5f4d35ca03ec1fc5599c56b8fab4f/image/%CE%B3%E5%90%B8%E6%94%B6%E6%9B%B2%E7%BA%BF.png)
+
+ 对 α 粒子而言，半吸收厚度为 α 粒于计数降至原来的一半的吸收层厚度；而言对 γ 射线和单能电子而言，半吸收厚度指射线强度减半处的吸收层厚度。
+
 **来源**：
+
+- 吸收曲线图
+  - α
+    - 《原子核物理实验方法 修订第三版》，P40 图2.9(b)
+  - β
+    - 《原子核物理实验方法 修订第三版》，P52 图2.20(b)
+  - γ
+    - https://en.wikibooks.org/wiki/Basic_Physics_of_Nuclear_Medicine/Attenuation_of_Gamma-Rays
+- 半吸收厚度
+  - α
+    - 《原子核物理实验方法 修订第三版》，P40
+  - β
+    - PPT 讲义《绪论 射线与物质相互作用 (2)》P89
+  - γ
+    - PPT 讲义《绪论 射线与物质相互作用 (2)》P101
 
 **讨论**：
 
