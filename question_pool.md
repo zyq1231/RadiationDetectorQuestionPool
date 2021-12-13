@@ -614,6 +614,8 @@
 
 **讨论**：
 
+- 或许应指出 FWHM。
+
 ------
 
 23. 用 HPGe 探测器测量 1MeV 的 γ 射线，由于电子-空穴对的统计涨落引起的能量展宽是多少？已知：法诺因子 <img src="https://render.githubusercontent.com/render/math?math=F=0.13">，<img src="https://render.githubusercontent.com/render/math?math=\bar{\omega} = 2.9\,\text{eV}">。
