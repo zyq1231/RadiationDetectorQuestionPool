@@ -533,7 +533,7 @@
 **讨论**：
 
 ------
-18. 用一台 NaI(Tl) 探测器测量 <img src="https://render.githubusercontent.com/render/math?math=\^{137}\text{Cs}"> 662 keV γ 谱。若已知平均光能产额 <img src="https://render.githubusercontent.com/render/math?math=\bar{Y_{\text{ph}}} = 4.37 \times 10^{-2}">，光收集效率 <img src="https://render.githubusercontent.com/render/math?math=F_{\text{ph}} = 0.35">，光电子收集效率 <img src="https://render.githubusercontent.com/render/math?math=g_c \sim 1">，量子效率 <img src="https://render.githubusercontent.com/render/math?math=\bar{Q_{K}} = 0.22">，光电倍增管第一打拿级 <img src="https://render.githubusercontent.com/render/math?math=\delta_1 = 25">，后面各级 <img src="https://render.githubusercontent.com/render/math?math=\delta = 6">，并认为 <img src="https://render.githubusercontent.com/render/math?math=\eta_T = \eta_I = 4\%25">，计算探测器的能量分辨率 <img src="https://render.githubusercontent.com/render/math?math=\eta">。
+18. 用一台 NaI(Tl) 探测器测量 <img src="https://render.githubusercontent.com/render/math?math=\^{137}\text{Cs}"> 662 keV γ 谱。若已知平均光能产额 <img src="https://render.githubusercontent.com/render/math?math=\bar{Y_{\text{ph}}} = 4.37 \times 10^{4} \text{MeV}^{-1}">，光收集效率 <img src="https://render.githubusercontent.com/render/math?math=F_{\text{ph}} = 0.35">，光电子收集效率 <img src="https://render.githubusercontent.com/render/math?math=g_c \sim 1">，量子效率 <img src="https://render.githubusercontent.com/render/math?math=\bar{Q_{K}} = 0.22">，光电倍增管第一打拿级 <img src="https://render.githubusercontent.com/render/math?math=\delta_1 = 25">，后面各级 <img src="https://render.githubusercontent.com/render/math?math=\delta = 6">，并认为 <img src="https://render.githubusercontent.com/render/math?math=\eta_T = \eta_I = 4\%25">，计算探测器的能量分辨率 <img src="https://render.githubusercontent.com/render/math?math=\eta">。
 
 **答案正文**：
 
