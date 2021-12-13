@@ -563,7 +563,71 @@
 
 ------
 
-……
+20. 试根据 G-M 计数管的坪曲线选择工作电压，图示并叙述出起始电压、坪长和坪斜的概念。
+
+**答案正文**：
+
+**来源**：
+
+- 
+
+**讨论**：
+
+------
+
+21. 一个金硅面垒探测器 <img src="https://render.githubusercontent.com/render/math?math=\rho = 1000\Omega \cdot \text{cm}">，外加偏压 <img src="https://render.githubusercontent.com/render/math?math=100\text{V}">，灵敏区直径 <img src="https://render.githubusercontent.com/render/math?math=\varphi = 20\text{mm}">，试求灵敏区厚度合结电容。
+
+**答案正文**：
+
+
+
+**来源**：
+ 
+- 
+
+**讨论**：
+
+------
+
+22. 下图为 HPGe 测量得到的 <img src="https://render.githubusercontent.com/render/math?math=\^{24}\text{Na}\text{-}\gamma">  能谱，请给出各部分的名称（不光是线状峰），简述其成峰原理。
+
+**答案正文**：
+
+
+
+**来源**：
+ 
+- 
+
+**讨论**：
+
+------
+
+23. 用 HPGe 探测器测量 1MeV 的 γ 射线，由于电子-空穴对的统计涨落引起的能量展宽是多少？已知：法诺因子 <img src="https://render.githubusercontent.com/render/math?math=F=0.13">，<img src="https://render.githubusercontent.com/render/math?math=\bar{\omega} = 2.9\,\text{eV}">。
+
+**答案正文**：
+
+
+
+**来源**：
+ 
+- 
+
+**讨论**：
+
+------
+
+24. 叙述热释光探测器工作原理。
+
+**答案正文**：
+
+
+
+**来源**：
+ 
+- 
+
+**讨论**：
 
 ------
 
