@@ -632,7 +632,7 @@
 
 由于电子-空穴对的统计涨落引起的能量展宽为：
 
-<img src="https://render.githubusercontent.com/render/math?math=W \approx 0.5 \sqrt{\rho u} = 0.5 \sqrt{1000 \times 100} = 158.11 \mu m">
+<img src="https://render.githubusercontent.com/render/math?math=\Delta E_\text{FWHM} = 2.355 \sqrt{FE_0\omega} = 2.355 \sqrt{0.13 \times 1 \times 10^{6} \times 2.9} = 1446 \,\text{eV}">
 
 **来源**：
  
