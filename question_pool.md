@@ -598,13 +598,19 @@
 
 22. 下图为 HPGe 测量得到的 <img src="https://render.githubusercontent.com/render/math?math=\^{24}\text{Na}\text{-}\gamma">  能谱，请给出各部分的名称（不光是线状峰），简述其成峰原理。
 
+![HPGe 测量得24Na-γ能谱](https://github.com/nuclear9725/RadiationDetectorQuestionPool/blob/5dff65e80e1d37e6693716128b4fdbb3a1e24bb5/image/24Na%20%E8%B0%B1.png)
+
 **答案正文**：
 
-
+- 1368 keV 和 2754 keV 处是 <img src="https://render.githubusercontent.com/render/math?math=\^{24}\text{Na}"> 的全能峰，能量全部被探测器吸收形成的。
+- 最左端是 1368 keV 全能峰的康普顿坪。发生康普顿效应时，反冲电子的能量随散射角连续变化，形成康普顿平台。
+- 康普顿坪右端是康普顿沿。其对应康普顿反冲电子最大能量。
+- 1368 keV 往右两个峰依次是 2754 keV 全能峰对应的双逃逸峰和单逃逸峰。电子对效应产生的正电子湮灭时产生的两个能量为 0.511 MeV 的光子，两个湮灭光子全都逃逸对应双逃逸峰，一个逃逸另一个被吸收对应单逃逸峰。
+- 2754 keV 全能峰左边为与其对应的康普顿坪和康普顿沿。
 
 **来源**：
  
-- 
+- 《原子核物理实验方法 修订第三版》，P270-271
 
 **讨论**：
 
