@@ -195,7 +195,7 @@
 ------
 
 6. 简述带电粒子与靶原子碰撞的一般行为包括哪些，Bether-Block 公式
-（<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})+\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]">）
+（<img src="https://render.githubusercontent.com/render/math?math=(-\frac{dE}{dx})_e = \frac{4 \pi z^2 e^4 NZ}{m_0 v^2}[\ln{(\frac{2m_0 v^2}{I})%2B\ln\frac{1}{1 - \beta^2}-\beta^2-\frac{C}{Z}}]">）
 中各项的物理意义。为什么 dE/dx~E 曲线有极大值出现？重带电粒子阻止本领与粒子能量的关系曲线，并简述曲线各部分对应的效应，和对其描述的理论。
 
 **答案正文**：
@@ -209,14 +209,15 @@
 
 (2) Bether-Block 公式中各项的物理意义
 
-- <img src="https://render.githubusercontent.com/render/math?math=z">、<img src="https://render.githubusercontent.com/render/math?math=v"> 分别为入射带电粒子的电荷数和速度
-- <img src="https://render.githubusercontent.com/render/math?math=NZ"> 分别为靶核的数密度及靶核的原子序数
+- 公式左边的 <img src="https://render.githubusercontent.com/render/math?math=-\frac{dE}{dx}"> 为重带电粒子的电离能量损失率，即重带电粒子在通过单位长度路径时的电离能量损失
+- <img src="https://render.githubusercontent.com/render/math?math=z">、<img src="https://render.githubusercontent.com/render/math?math=v"> 分别为入射带电粒子的电荷数和速度。该项表明，重带电粒子的能量损失率和入射粒子 <img src="https://render.githubusercontent.com/render/math?math=z^2"> 成正比，和 <img src="https://render.githubusercontent.com/render/math?math=v^2"> 成反比。入射粒子电荷数越高、速度越慢其能量损失得越快。另外，公式不含入射粒子的质量 <img src="https://render.githubusercontent.com/render/math?math=m">，说明电离能量损失率和入射粒子的质量无关。
+- <img src="https://render.githubusercontent.com/render/math?math=NZ"> 分别为靶核的数密度及靶核的原子序数。该项表明，重带电粒子的电离能量损失率与靶物质的 <img src="https://render.githubusercontent.com/render/math?math=NZ"> 成正比，原子序数高、密度大的靶物质阻止本领强。
 - <img src="https://render.githubusercontent.com/render/math?math=\ln\frac{1}{1 - \beta^2}-\beta^2"> 为相对论修正项
-- <img src="https://render.githubusercontent.com/render/math?math=-\frac{C}{Z}"> 为壳效应修正项
+- <img src="https://render.githubusercontent.com/render/math?math=-\frac{C}{Z}"> 为壳效应修正项，其中 <img src="https://render.githubusercontent.com/render/math?math=C=C_K %2B C_L  %2B C_M %2B \cdots">。壳效应修正项在入射粒子速度低时比较重要
 - <img src="https://render.githubusercontent.com/render/math?math=e">、<img src="https://render.githubusercontent.com/render/math?math=m_0"> 分别为电子的电荷和静止质量
 - <img src="https://render.githubusercontent.com/render/math?math=c"> 为光速
 - <img src="https://render.githubusercontent.com/render/math?math=\beta = \frac{v}{c}">
-- <img src="https://render.githubusercontent.com/render/math?math=I"> 为靶原子的平均电离电位
+- <img src="https://render.githubusercontent.com/render/math?math=I"> 为靶原子的平均电离电位，即靶原子的平均激发和电离能
 
 (3) 重带电粒子阻止本领与粒子能量的关系曲线，以及曲线各部分对应的效应和对其描述的理论
 
