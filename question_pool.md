@@ -301,15 +301,24 @@
 
 **答案正文**：
 
-若光电效应发生于真空中的自由电子，则无法同时满足能量守恒及动量守恒。因此，光电效应的发生必须有 "第三者" 的参与，"第三者" 受到一定的反冲，以满足动量守恒。
+若光电效应发生于真空中的自由电子，则无法同时满足能量守恒及动量守恒。因此，光电效应的发生必须有 "第三者" 的参与，"第三者" 受到一定的反冲，以满足能量、动量守恒。
+
+设光子能量被静止自由电子吸收并转化为自由电子的动能，由能量、动量守恒可得反应后电子的能量和动量：
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}E_e' %26= h \nu %2B E_e =h \nu %2B m_e c^2 \\P_e' %26= \frac{h \nu}{c}\end{align*}">
+
+而根据相对论质能公式：
+<img src="https://render.githubusercontent.com/render/math?math=E^2 = p^2c^2 %2B m^2c^4">
+          
+可以推出显然错误的结果：
+
+<img src="https://render.githubusercontent.com/render/math?math=\begin{align*}(h \nu %2B m_e c^2)^2 %26= (h \nu)^2 %2B (m_e c^2)^2 \\h \nu m_e c^2 %26 = 0\end{align*}">
+
+故光电效应不可能在真空中发生，必须有“第三者”的参与。
 
 **来源**：
 
-- https://en.wikipedia.org/wiki/Pair_production#Photon_to_electron_and_positron
-
 **讨论**：
-
-- 或许需要再详细一点
 
 ------
 
