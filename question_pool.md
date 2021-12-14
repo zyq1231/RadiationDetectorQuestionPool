@@ -14,16 +14,16 @@
   - 中子
 
 适合测量各射线的探测器：
-| 射线 | 探测器 |
-|---|---|
-| 重带电粒子  | 金硅面垒探测器  |
-|   | NaI(Tl)  |
-| 轻带电粒子  | 硅面垒探测器  |
-|   | 液体闪烁体  |
-| 电磁辐射  | 电离室  |
-|   | HPGe 探测器  |
-| 中子  | <img src="https://render.githubusercontent.com/render/math?math=\text{BF}_3"> 正比计数管  |
-|   | 核乳胶  |
+| 射线 | 探测器 |  探测器 |
+|---|---|---|
+| 重带电粒子  | 金硅面垒探测器  | HPGe 探测器 |
+|   | 正比计数管 |  NaI(Tl)  |
+| 轻带电粒子  | G-M 计数管 |  多丝正比室  | 
+|   | 液体闪烁体  |  硅面垒探测器  |
+| 电磁辐射  |  HPGe 探测器  |  G-M 计数管  |
+|   | NaI(Tl)  |    |
+| 中子  | <img src="https://render.githubusercontent.com/render/math?math=\text{BF}_3"> 正比计数管  |  核乳胶  |
+|   | 液体闪烁体  |    |
 
 **来源**：
 
